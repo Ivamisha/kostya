@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cart-react/static/css/main.93b552d6.css",
-    "main.js": "/cart-react/static/js/main.62fb2f97.js",
-    "static/js/787.968bfccc.chunk.js": "/cart-react/static/js/787.968bfccc.chunk.js",
-    "index.html": "/cart-react/index.html",
-    "main.93b552d6.css.map": "/cart-react/static/css/main.93b552d6.css.map",
-    "main.62fb2f97.js.map": "/cart-react/static/js/main.62fb2f97.js.map",
-    "787.968bfccc.chunk.js.map": "/cart-react/static/js/787.968bfccc.chunk.js.map"
+    "main.css": "/kostya/static/css/main.93b552d6.css",
+    "main.js": "/kostya/static/js/main.9f959f5f.js",
+    "static/js/787.968bfccc.chunk.js": "/kostya/static/js/787.968bfccc.chunk.js",
+    "index.html": "/kostya/index.html",
+    "main.93b552d6.css.map": "/kostya/static/css/main.93b552d6.css.map",
+    "main.9f959f5f.js.map": "/kostya/static/js/main.9f959f5f.js.map",
+    "787.968bfccc.chunk.js.map": "/kostya/static/js/787.968bfccc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93b552d6.css",
-    "static/js/main.62fb2f97.js"
+    "static/js/main.9f959f5f.js"
   ]
 }
